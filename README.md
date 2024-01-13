@@ -1,1 +1,1 @@
-# angular-ecomerce
+# angular-ecommerce
