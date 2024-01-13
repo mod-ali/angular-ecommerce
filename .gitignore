@@ -1,0 +1,9 @@
+/.idea
+/target
+/frontend/.vscode
+/backend/spring-boot-ecommerce/.mvn
+/backend/spring-boot-ecommerce/target
+/backend/spring-boot-ecommerce/mvnw
+/backend/spring-boot-ecommerce/mvnw.cmd
+/backend/spring-boot-ecommerce/spring-boot-ecommerce.iml
+/backend/spring-boot-ecommerce/.idea
